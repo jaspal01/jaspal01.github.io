@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-gh-pages/static/js/main.7e097cc6.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.7e097cc6.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.384f57f2.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.384f57f2.js.map",
-    "static/js/2.54c8ccf5.chunk.js": "/react-gh-pages/static/js/2.54c8ccf5.chunk.js",
-    "static/js/2.54c8ccf5.chunk.js.map": "/react-gh-pages/static/js/2.54c8ccf5.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/js/2.54c8ccf5.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.54c8ccf5.chunk.js.LICENSE.txt",
-    "static/media/agriGlobe.cf94d9c9.png": "/react-gh-pages/static/media/agriGlobe.cf94d9c9.png",
-    "static/media/plant.751c6f41.jpg": "/react-gh-pages/static/media/plant.751c6f41.jpg"
+    "main.js": "/jaspal01.github.io/static/js/main.7e097cc6.chunk.js",
+    "main.js.map": "/jaspal01.github.io/static/js/main.7e097cc6.chunk.js.map",
+    "runtime-main.js": "/jaspal01.github.io/static/js/runtime-main.43e7fdb0.js",
+    "runtime-main.js.map": "/jaspal01.github.io/static/js/runtime-main.43e7fdb0.js.map",
+    "static/js/2.6c15e5f6.chunk.js": "/jaspal01.github.io/static/js/2.6c15e5f6.chunk.js",
+    "static/js/2.6c15e5f6.chunk.js.map": "/jaspal01.github.io/static/js/2.6c15e5f6.chunk.js.map",
+    "index.html": "/jaspal01.github.io/index.html",
+    "static/js/2.6c15e5f6.chunk.js.LICENSE.txt": "/jaspal01.github.io/static/js/2.6c15e5f6.chunk.js.LICENSE.txt",
+    "static/media/agriGlobe.cf94d9c9.png": "/jaspal01.github.io/static/media/agriGlobe.cf94d9c9.png",
+    "static/media/plant.751c6f41.jpg": "/jaspal01.github.io/static/media/plant.751c6f41.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.384f57f2.js",
-    "static/js/2.54c8ccf5.chunk.js",
+    "static/js/runtime-main.43e7fdb0.js",
+    "static/js/2.6c15e5f6.chunk.js",
     "static/js/main.7e097cc6.chunk.js"
   ]
 }
